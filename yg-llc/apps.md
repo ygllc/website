@@ -34,6 +34,10 @@ It is built for people who want a clearer and simpler tracking experience.
 * Keep sessions clear and consistent
 * Use a focused, easy-to-follow experience
 
+### Golinks
+
+**Visit your favorite websites quicker then ever.**
+
 ### Find app docs
 
 * [MyMileage docs](docs/mymileage.md)
